@@ -68,7 +68,11 @@ Para evitar a perda das configurações após o reinício do equipamento, foi ut
 
 ```cisco
 Router# write
+
 ```
+
+<img width="626" height="857" alt="image" src="https://github.com/user-attachments/assets/09e9ff53-50d9-4d9a-8748-749b3aa94aa6" />
+
 
 ## 🔄 Funcionamento do DHCP — Processo DORA
 
@@ -89,6 +93,7 @@ Após a configuração, os computadores receberam automaticamente seus parâmetr
 | **PC-1**    | `192.168.1.3` | `255.255.255.0 (/24)` |
 
 ### 📌 Resultado
+<img width="1912" height="1079" alt="image" src="https://github.com/user-attachments/assets/19b7f65b-2f67-4cb0-b6cb-8e3e1b72bc60" />
 
 Os endereços foram preenchidos em **segundos**, sem intervenção manual e reduzindo o risco de **conflitos ou duplicidade de endereços IP**.
 
