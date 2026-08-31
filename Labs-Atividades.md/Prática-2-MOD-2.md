@@ -89,11 +89,13 @@ Observação do processo de encapsulamento dos dados e dos cabeçalhos presentes
 
 ### Topologia da Rede
 
-![Topologia da rede](./imagens/pratica2-topologia.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/343af8af-156b-42d2-b010-a1ae98d01628" />
 
 ### Configuração e Testes
+<img width="1885" height="650" alt="image" src="https://github.com/user-attachments/assets/a4180634-1776-4aae-87b3-db92febcda16" />
+<img width="1909" height="473" alt="image" src="https://github.com/user-attachments/assets/1466cbfb-38dd-4f4c-83c9-213dbda2cc22" />
+<img width="551" height="214" alt="image" src="https://github.com/user-attachments/assets/65563b4a-4fcb-464a-8ba1-fd36d7c872bf" />
 
-![Configuração e testes](./imagens/pratica2-testes.png)
 
 ---
 
