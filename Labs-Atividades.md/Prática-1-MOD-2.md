@@ -1,4 +1,4 @@
-#  Prática 1: Automação de Redes — Implementando Servidor DHCP em Roteador Cisco
+#  PRÁTICA 1: Automação de Redes — Implementando Servidor DHCP em Roteador Cisco
 
 Prover conectividade eficiente em uma **LAN** exige mais do que conectar cabos. Exige **automação, escalabilidade e mitigação de erros operacionais**.
 
