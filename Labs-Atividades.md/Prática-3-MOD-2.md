@@ -39,7 +39,7 @@ Este projeto consiste na montagem e configuração **do zero** de uma infraestru
 * Entendimento prático sobre o comportamento real e fluxo dos pacotes de dados.
 * Importância do controle de acesso e criptografia em redes wireless.
 * Diagnóstico básico e resolução de problemas de conectividade (*Troubleshooting*).
-<img width="1280" height="724" alt="1786932360165" src="https://github.com/user-attachments/assets/1b1cc11f-56ca-4bda-b342-1440c1d6b7d7" />
+<img width="895" height="648" alt="image" src="https://github.com/user-attachments/assets/8ce89980-4dfd-4cea-9715-3f4ba2557754" />
 
 ---
 
