@@ -1,4 +1,3 @@
-<img width="977" height="649" alt="image" src="https://github.com/user-attachments/assets/99e40d5a-9dc0-414c-b9b2-9311be0a1f52" />
 
 # Modelagem de Rede Corporativa em 3 Camadas (Cisco)
 
