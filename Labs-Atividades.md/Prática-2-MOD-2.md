@@ -1,4 +1,4 @@
-# 🌐 PRÁTICA 2: MÓDULO 2
+# PRÁTICA 2: MÓDULO 2
 
 ## Configuração de Serviços (HTTP/DNS) e Análise de Protocolos
 
@@ -8,7 +8,7 @@ Neste laboratório prático, construí uma rede funcional do zero para configura
 
 ---
 
-## 🛠️ Recursos Utilizados
+##  Recursos Utilizados
 
 | Recurso                         | Descrição                         |
 | ------------------------------- | --------------------------------- |
@@ -19,7 +19,7 @@ Neste laboratório prático, construí uma rede funcional do zero para configura
 
 ---
 
-## ⚙️ Procedimento Experimental e Configurações
+##  Procedimento Experimental e Configurações
 
 ### 1. 🔌 Montagem da Rede
 
@@ -99,7 +99,7 @@ Observação do processo de encapsulamento dos dados e dos cabeçalhos presentes
 
 ---
 
-## 🎯 Conclusão
+##  Conclusão
 
 A prática possibilitou a montagem de uma rede local funcional e a configuração dos serviços **HTTP e DNS** em um servidor no Cisco Packet Tracer.
 
