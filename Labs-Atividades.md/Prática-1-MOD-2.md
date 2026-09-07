@@ -1,8 +1,8 @@
-# 🌐 Prática 1: Automação de Redes — Implementando Servidor DHCP em Roteador Cisco
+#  Prática 1: Automação de Redes — Implementando Servidor DHCP em Roteador Cisco
 
 Prover conectividade eficiente em uma **LAN** exige mais do que conectar cabos. Exige **automação, escalabilidade e mitigação de erros operacionais**.
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Automatizar a entrega de parâmetros essenciais de rede para os dispositivos clientes.
 
@@ -13,7 +13,7 @@ Em vez de configurar máquina por máquina manualmente, o próprio roteador assu
 * **Gateway Padrão:** porta de saída para outras redes e para a Internet.
 * **Servidor DNS:** traduz nomes de domínio em endereços IP.
 
-## 🛠️ Recursos e Ferramentas Utilizadas
+## Recursos e Ferramentas Utilizadas
 
 * **Cisco Packet Tracer:** simulador de ambientes de redes.
 * **Roteador Cisco 2911:** atuando como Gateway e Servidor DHCP.
