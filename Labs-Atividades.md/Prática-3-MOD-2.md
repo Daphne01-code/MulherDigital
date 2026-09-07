@@ -7,6 +7,8 @@
 
 ## Visão Geral do Projeto
 Este projeto consiste na montagem e configuração **do zero** de uma infraestrutura de rede para um pequeno escritório/home office (**SOHO**), aplicando conceitos essenciais de conectividade, endereçamento IP e segurança sem fio através do **Cisco Packet Tracer**.
+<img width="967" height="670" alt="image" src="https://github.com/user-attachments/assets/9310d075-5548-4ce6-a8f1-0466af50d5c2" />
+
 
 ---
 
@@ -37,6 +39,7 @@ Este projeto consiste na montagem e configuração **do zero** de uma infraestru
 * Entendimento prático sobre o comportamento real e fluxo dos pacotes de dados.
 * Importância do controle de acesso e criptografia em redes wireless.
 * Diagnóstico básico e resolução de problemas de conectividade (*Troubleshooting*).
+<img width="1280" height="724" alt="1786932360165" src="https://github.com/user-attachments/assets/1b1cc11f-56ca-4bda-b342-1440c1d6b7d7" />
 
 ---
 
