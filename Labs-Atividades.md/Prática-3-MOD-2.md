@@ -1,4 +1,4 @@
-#  Simulação de Rede SOHO com Cisco Packet Tracer
+#  PRÁTICA 3: Simulação de Rede SOHO com Cisco Packet Tracer
 
 > **Módulo 2:** Conceitos Básicos de Rede — Prática 3  
 > *A teoria só se consolida quando colocamos a mão na massa!*
